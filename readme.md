@@ -1,8 +1,6 @@
-Readme
+# Alien vs Predator Simulation
 
-
-Welcome to The Alien vs Predator Simulation
-
+## Getting Started
 The main method for the program is in Engine.java
 
 
